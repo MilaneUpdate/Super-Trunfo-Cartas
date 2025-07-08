@@ -26,7 +26,7 @@ int main() {
     int populacao2 = 4284450;                // População total
     float area2 = 312.353;                   // Área total em km²
     float pib2 = 65.16;                      // Produto Interno Bruto em bilhões
-    int pontosTuristicos2 = 23;             // Número de pontos turísticos
+    int pontosTuristicos2 = 45;             // Número de pontos turísticos
 
     float densidade2 = populacao2 / area2;   // Cálculo da densidade populacional
     float pibPerCapita2 = pib2 / populacao2; // Cálculo do PIB per capita

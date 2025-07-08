@@ -36,7 +36,7 @@ int main() {
     int populacao2 = 4284450;               // População da cidade
     float area2 = 312.353;                  // Área da cidade em km²
     float pib2 = 65.16;                     // PIB em bilhões de reais
-    int nPontosTuristicos2 = 23;            // Número de pontos turísticos
+    int nPontosTuristicos2 = 45;            // Número de pontos turísticos
 
     // Impressão dos dados da carta 2
     
